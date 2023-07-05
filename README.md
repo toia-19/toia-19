@@ -1,6 +1,6 @@
 Hi there 👋
 # ✨ About Me:
-🐷 I’m currently working on design websites.<br>🐷 I’m currently learning how to set up a web hosting.<br>🐷 Fun fact: I learned web design and created apps for school for the last 5 years and I love it!
+🐷 I'm from Argentina. 🇦🇷<br>🐷 I’m currently working on design websites.<br>🐷 I’m currently learning how to set up a web hosting.<br>🐷 Fun fact: I learned web design and created apps for school for the last 5 years and I love it!
 
 
 # 💻 Tech Stack:
