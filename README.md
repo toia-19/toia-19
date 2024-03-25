@@ -1,6 +1,6 @@
 Hi there 👋
 # ✨ About Me:
-I'm from Argentina.<br>I’m currently working on design websites.<br>I’m currently learning how to set up a web hosting.<br>Fun fact: I learned web design and created apps for school for the last 4 years and I love it!
+I'm from Argentina.<br>I’m currently working on design websites.<br>I’m currently learning how to set up a web hosting.<br>
 
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
